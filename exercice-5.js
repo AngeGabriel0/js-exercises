@@ -4,6 +4,7 @@ Par exemple : */
 
 //Code initial :
 
+
 // before the call
 let menu = {
     width: 200,
